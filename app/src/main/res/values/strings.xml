@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GreenDao</string>
+    <string name="name">Name</string>
+    <string name="write_your_name">Write your name</string>
+    <string name="write_your_cell_phone_numer">Write your cell phone numer</string>
+    <string name="id">Id</string>
+    <string name="cellphone">Cellphone:</string>
+    <string name="street">Street:</string>
+    <string name="state">State:</string>
+    <string name="create">Create</string>
+    <string name="update">Update</string>
+    <string name="search">Search</string>
+    <string name="delete">Delete</string>
+    <string name="zip_code">Zip Code:</string>
+    <string name="clear">Clear</string>
+</resources>
